@@ -1,0 +1,11 @@
+*SENG113
+-Exams
+/Midterm.docx
+/Final.docx
+*Musics
+-Pop
+/U2.mp3
+*Personal
+-Pictures
+/Sunset.jpg
+/Football.jpg
